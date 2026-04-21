@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Page</title>
+</head>
+<body>
+    <h1>Zoolander</h1>
+
+    <a href="index.html" title="Zoolander's Home" target="_self">Home</a> &nbsp; | &nbsp; 
+    <a href="about.html" title="About Zoolander's Home" target="_self">About</a> &nbsp; | &nbsp;
+    <a href="collection.html" title="Collection Zoolander's Home" target="_self">Collection</a> &nbsp; | &nbsp;
+    <a href="contact.html" title="Contact Zoolander's Home" target="_self">Contact</a> 
+
+
+    
+
+    <h2>About Zoolander</h2>
+   
+    <p>Derek Zoolander, often simply known as Zoolander, stands as a beacon of avant-garde fashion in the bustling corridors of style and glamour. Born and bred in the heart of couture, this enigmatic model emerged from the depths of the catwalks to redefine what it means to be 'ridiculously good-looking.'</p>
+
+    <p>From the early days of his career, Zoolander captivated audiences with his signature "Blue Steel" gaze—an iconic pose that ignited the runways and mesmerized fashion connoisseurs worldwide. His career skyrocketed, elevating him to the pinnacle of haute couture faster than a flashbulb pop.</p>
+    
+    <h3>Achievements</h3>
+    <p>Beyond his chiseled jawline and devilish charm lies a maestro of haute couture, effortlessly bridging the gap between runway fashion and <a href="#pop-culture" title="go to pop culture section">pop culture</a>. His portfolio spans from high-end fashion editorials to dazzling campaigns, each frame capturing the essence of a man who breathes life into fabric and turns threads into narratives.</p>
+    
+    <p>Yet, Zoolander isn't just about fashion; he's a philanthropist at heart. Whether it's his <i>'Derek Zoolander Center for Kids Who Can't Read Good'</i> or his noble efforts in the fight against "the real issue," Zoolander's heart is as vast as his influence in the fashion cosmos.</p>
+    
+    <p>His life story transcends mere catwalks and photo shoots; it's an odyssey through the ever-evolving landscape of fashion, where innovation meets the unpredictable and where style isn't just worn; it's lived.</p>
+
+    <p><a href="resume.pdf" download>Download Derek's Resume</a></p>
+
+    <h3>Misadventures</h3>
+    <p>"Zoolander" follows the hilarious misadventures of Derek Zoolander, a dim-witted yet ridiculously good-looking male supermodel, brilliantly portrayed by Ben Stiller. The movie, a satirical take on the fashion industry, showcases Derek's journey through a world that's as glamorous as it is absurd.</p>
+
+    <h4>The Modeling World:</h4>
+    <p>Derek Zoolander is on top of the modeling game until a rising star named Hansel (played by Owen Wilson) threatens his status. As the rivalry between Derek and Hansel intensifies, the movie delves into the superficial, competitive, and often nonsensical world of high fashion.</p>
+
+    <h4>Magnum: The Signature Pose:</h4>
+    <p>One of the most iconic elements of "Zoolander" is the introduction of Derek's signature modeling pose called "Blue Steel," followed by "Magnum" and "Le Tigre." These ridiculously exaggerated expressions become a recurring comedic motif throughout the movie.</p>
+
+    <h4>The Quest for Identity:</h4>
+    <p>Derek's journey isn't just about his modeling career; it's also a quest for self-discovery. He grapples with his self-image, struggles with his family's expectations, and questions the meaning of his existence beyond being a beautiful face.</p>
+
+    <h4>Comic Antics and Ridiculousness:</h4>
+    <p><a href="https://www.amazon.ca/Zoolander-Double-Pack-Blu-ray/dp/B01I3RPMHM" title="Buy Zoolander's Box set" target="_blank">The film is loaded with absurdity, from Derek's inability to turn left to a sinister plot involving brainwashed male models, orchestrated by the fashion industry's manipulative mogul, Mugatu (played by Will Ferrell).</a></p>
+
+    <h4>Redemption and Friendship:</h4>
+    <p>Amidst the chaos, Derek discovers the true value of friendship, especially with Hansel. Together, they uncover a plot against the Prime Minister of Malaysia and find purpose beyond the shallow world of fashion.</p>
+
+    <!-- <h4><a name="Pop Culture">Pop Culture:</a></h4> -->
+    <h4><a id="Pop Culture">Pop Culture:</a></h4>
+    <p>"Zoolander" became a cult classic due to its quotable lines, memorable characters, and hilarious exaggeration of the fashion industry's stereotypes. It spawned a sequel and remains a beloved comedy that pokes fun at the glamour and absurdity of the modeling world.</p>
+
+    <h4>Conclusion:</h4>
+    <p>"Zoolander" isn't just a comedy; it's a commentary on superficiality, identity, and friendship. Through Derek Zoolander's comically exaggerated journey, the movie manages to deliver laughs while subtly touching on deeper themes. It's a film that celebrates the ridiculousness of the fashion industry while reminding us not to take ourselves too seriously.</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Works Page</title>
+</head>
+<body>
+    <h1>Zoolander</h1>
+
+    <a href="index.html" title="Zoolander's Home" target="_self">Home</a> &nbsp; |&nbsp; 
+    <a href="about.html" title="About Zoolander's Home" target="_self">About</a> &nbsp; | &nbsp;
+    <a href="collection.html" title="Collection Zoolander's Home" target="_self">Collection</a> &nbsp; | &nbsp;
+    <a href="contact.html" title="Contact Zoolander's Home" target="_self">Contact</a> 
+
+ 
+    
+    <hr>
+    <h2>Featured Collections</h2>
+
+    <h3>Magnum Collection</h3>
+    <p>Unleash the power of the Magnum pose.</p>
+
+    <h3>Blue Steel Collection</h3>
+    <p>Experience the iconic Blue Steel look.</p>
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Page</title>
+</head>
+<body>
+    <h1>Zoolander</h1>
+
+    <a href="index.html" title="Zoolander's Home" target="_self">Home</a> &nbsp; | &nbsp; 
+    <a href="about.html" title="About Zoolander's Home" target="_self">About</a> &nbsp; | &nbsp;
+    <a href="collection.html" title="Collection Zoolander's Home" target="_self">Collection</a> &nbsp; | &nbsp;
+    <a href="contact.html" title="Contact Zoolander's Home" target="_self">Contact</a> 
+
+ 
+
+    <hr>
+    <h2>Contact Zoolander</h2> 
+
+    <p>For inquiries, bookings, or collaborations, feel free to reach out to Zoolander's team:</p>
+    <p>Email: <a href="mailto:info@zoolanderfashion.com? subject=Website Inquiry& cc=zoolander@zoo.ca& bcc=zoolander.gmail.com&body=This is from the zoolander site">info@zoolanderfashion.com</a></p>
+    <p>Phone: <a href="tel:1 604-000-1234">+1 604-000-1234</a></p>
+    <p>Address: <a href="https://www.google.com/maps/place/2634+N+Broadway,+Los+Angeles,+CA+90031,+USA/@34.0735095,-118.2145297,17z/data=!3m1!4b1!4m6!3m5!1s0x80c2c67da7113515:0x41ef1116ec12c182!8m2!3d34.0735095!4d-118.2145297!16s%2Fg%2F11q2njfsfz?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D" target="_blank">2634 N Broadway, Los Angeles, CA 90031, United States</a></p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zoolander's Home</title>
+</head>
+<body>
+    <h1>Zoolander</h1>
+    <!-- # means here on this file or page -->
+    <a href="index.html" title="Zoolander's Home" target="_self">Home</a> &nbsp; | &nbsp; 
+    <a href="about.html" title="About Zoolander's Home" target="_self">About</a> &nbsp; | &nbsp;
+    <a href="./collection.html" title="Collection Zoolander's Home" target="_self">Collection</a> &nbsp; | &nbsp;
+    <a href="./contact.html" title="Contact Zoolander's Home" target="_self">Contact</a> 
+
+    <a href="./more/somepage.html" title="Go to Some Page" target="_self">Go to Some Page</a> &nbsp; | &nbsp;
+
+
+    <h2>Welcome to Zoolander's Fashion World</h2>
+
+    <p><i>Where style meets attitude!</i></p>
+
+    <p>Welcome to Zoolander's Fashion World, where style transcends ordinary boundaries and meets the extraordinary.Dive into a realm where every strut, pose, and ensemble is an expression of pure fashion artistry. Join us as we redefine elegance, one pose at a time, and explore a universe where trends are set and rules are rewritten.</p>
+
+    <p>Step into Zoolander's world and embrace the epitome of fashion innovation.Join us on a voyage through the whimsical, flamboyant, and trailblazing life of Zoolander—a man who etched his name in the annals of fashion lore and forever changed the game, one pose at a time.</p>
+
+    <h3>Latest Episode: "Fashion Unleashed"</h3>
+    <p>Join Zoolander behind the scenes as he unveils the latest trends and talks about the future of fashion!</p>
+</body>
+</html>
